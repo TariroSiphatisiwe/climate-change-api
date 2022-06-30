@@ -85,7 +85,7 @@
     "vary": "^1.1.2"
   },
   "scripts": {
-    "start":"nodemon index.js"
+    "start":"node index.js"
   },
   "author": "",
   "license": "ISC",
